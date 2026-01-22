@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+
+
+Create a model layer for the student management system project inside the models folder using the following instructions-
+Inside the Models folder, create a file named Student.cs.
+
+Define a public class Student with the following properties:
+- Id (int)
+- FirstName (string)
+- LastName (string)
+- Email (string)
+- DateOfBirth (DateTime)
+
+This file must not reference any project-specific services or endpoints.
+Create no other files.
